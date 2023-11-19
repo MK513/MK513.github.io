@@ -23,11 +23,11 @@ social: false  # includes social icons at the bottom of the page
 I am an Undergraduate student at the College of Computing at SungKyunKwan University.
 
 ## Skills
-C: ★★★☆☆
-C++: ★★★☆☆
-Python:★★★☆☆
-Java: ★★☆☆☆
-Spring:★☆☆☆☆
+C: ★★★☆☆\
+C++: ★★★☆☆\
+Python:★★★☆☆\
+Java: ★★☆☆☆\
+Spring:★☆☆☆☆\
 
 ## Education
 Undergraduate, College of Computing, SKKU
