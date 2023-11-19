@@ -26,7 +26,7 @@ C: ★★★☆☆\
 C++: ★★★☆☆\
 Python:★★★☆☆\
 Java: ★★☆☆☆\
-Spring:★☆☆☆☆\
+Spring:★☆☆☆☆
 
 ## Education
 Undergraduate, College of Computing, SKKU
