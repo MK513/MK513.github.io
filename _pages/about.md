@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Min Kim</p>
-    <p>SKKU, college of Computing</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -35,3 +32,6 @@ Data Structure, System Program, Java Practice, Logic Circuit
 
 ## Achievements and Certifications
 Not yet…
+
+## Contacts
+<a href='[#](finemini@g.skku.edu)'>Gmail</a>
