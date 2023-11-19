@@ -29,10 +29,9 @@ Java: ★★☆☆☆\
 Spring:★☆☆☆☆
 
 ## Education
-**Undergraduate, College of Computing, SKKU**
-
-Completed the following subjects:
-#### Data Structure, System Program, Java Practice, Logic Circuit
+**Undergraduate, College of Computing, SKKU**\
+**Completed the following subjects:**\
+Data Structure, System Program, Java Practice, Logic Circuit
 
 ## Achievements and Certifications
 Not yet…
