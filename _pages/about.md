@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.skku.edu/skku/index.do)'>SKKU</a>
 
 profile:
   align: right
