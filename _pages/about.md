@@ -33,5 +33,5 @@ Data Structure, System Program, Java Practice, Logic Circuit
 Not yet…
 
 ## Contacts
-<a href='mailto:finemini@g.skku.edu'>finemini@g.skku.edu</a>
+<a href='mailto:finemini@g.skku.edu'>finemini@g.skku.edu</a>\
 <a href='https://github.com/MK513'>Github</a>
